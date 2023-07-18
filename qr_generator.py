@@ -43,4 +43,4 @@ with col2:
     st.image(byte_im, caption='Generated QR Code')
 
 st.write("________________________________")
-st.write("Follow me on tiktok - [@kentjk.ie](https://www.tiktok.com/@kentjk.ie?_t=8ZlD8kgkgUc&_r=1)")
+st.write("Follow me on tiktok - [@kentjk](https://www.tiktok.com/@kentjk)")
